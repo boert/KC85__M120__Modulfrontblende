@@ -1,4 +1,4 @@
-# M120  Modulfrontblende für das Modul M120
+# Modulfrontblende für das Modul M120
 Herstellungsverfahren: 3D-Druck
 
 ## Konstruktion
@@ -17,3 +17,5 @@ Verschiedene Möglichkeiten des Ausdrucks:
 - einfarbig und nachträglich färben mit einem Permanentmarker
 - manuellem Filamentwechsel ab einer bestimmten Höhe
 - automatischer Filamentwechsel (Dual-Extruder)
+
+![M120 im Modulschacht 0C](Bilder/M120_im_Schacht_0C.jpg)
